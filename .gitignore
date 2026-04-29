@@ -1,0 +1,54 @@
+# Obsidian
+
+# Configuració local (preferències personals)
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+
+# Plugins (opcional: ignora si no vols versionar-los)
+
+.obsidian/plugins/*
+
+# Caché i fitxers temporals
+
+.obsidian/cache
+.obsidian/Cache
+.obsidian/tmp
+.obsidian/.trash
+
+# Sync i estat local
+
+.obsidian/sync.json
+
+# Sistema operatiu
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+desktop.ini
+
+# Logs
+
+*.log
+
+# Fitxers temporals d’editor
+
+*.swp
+*.swo
+*~
+
+# Node (si uses plugins o eines JS)
+
+node_modules/
+dist/
+build/
+
+# Altres
+
+.env
+.env.local
