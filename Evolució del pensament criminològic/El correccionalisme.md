@@ -5,6 +5,7 @@ curs: Fonaments de criminologia
 tags:
   - studies
   - tema_2
+  - teories
 ---
 ## Conceptes clau
 Línia de pensament originalment alemanya que es va imposar a Espanya al mateix temps que l'[[Scuola positiva]] naixia a Itàlia.

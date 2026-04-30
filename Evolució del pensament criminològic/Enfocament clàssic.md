@@ -5,6 +5,7 @@ curs: Fonaments de criminologia
 tags:
   - studies
   - tema_2
+  - teories
 ---
 ## Conceptes clau
 És la **manifestació més clara del [[Paradigma del lliure albir i càstig]]**.

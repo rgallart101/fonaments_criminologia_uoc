@@ -6,6 +6,7 @@ tags:
   - studies
   - scuola_positiva
   - tema_2
+  - teories
 ---
 ## Conceptes clau
 Neix en el darrer terç del segle XIX. Representa el pas de l'especulació, la deducció i el pensament abstracte i deductiu (etapa precientífica) a l'observació, la inducció i el mètode positiu.
