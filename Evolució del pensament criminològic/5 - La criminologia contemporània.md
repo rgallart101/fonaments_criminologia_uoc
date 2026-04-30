@@ -12,7 +12,7 @@ Actualment existeixen diferents teories que intenten explicar l'origen de l'acti
 També existeixen el que s'anomenen *teories integradores*, que intenten abastar un espectre explicatiu més ampli.
 
 ## Detalls importants
-
+Veure els [[#Temes relacionats]].
 
 ## Exemples
 
