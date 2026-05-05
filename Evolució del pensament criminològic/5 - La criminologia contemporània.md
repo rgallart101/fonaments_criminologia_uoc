@@ -22,6 +22,17 @@ Veure els [[#Temes relacionats]].
 
 ## Resum
 
+**Mindmap de les diferents teories contemporànies**
+```mermaid
+mindmap
+root((Teories contemporànies))
+	Neoclàssica
+		Dissuassió
+		Elecció Racional
+			Activitats rutinàries
+	Variables biològiques
+		Herència
+```
 
 ## Temes relacionats
 - [[La criminologia neoclàssica]]
