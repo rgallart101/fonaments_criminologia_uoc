@@ -24,14 +24,25 @@ Veure els [[#Temes relacionats]].
 
 **Mindmap de les diferents teories contemporànies**
 ```mermaid
+--- 
+config: 
+  layout: tidy-tree 
+---
 mindmap
-root((Teories contemporànies))
+root(Teories<br /> contemporànies)
 	Neoclàssica
 		Dissuassió
 		Elecció Racional
 			Activitats rutinàries
 	Variables biològiques
 		Herència
+		Neurofisiologia
+		Sistema Nerviós<br /> Autònom
+		Endocrinologia
+	Enfocaments psicològics
+		Models psicologicistes
+		Psiquiatria
+		Psicoanàlisi
 ```
 
 ## Temes relacionats

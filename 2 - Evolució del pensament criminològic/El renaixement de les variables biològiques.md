@@ -24,6 +24,7 @@ root(biologia)
 	herència
 	neurofisiologia
 	sistema nerviós autònom
+	endocrinologia
 ```
 
 ## Preguntes
@@ -33,4 +34,6 @@ root(biologia)
 
 
 ## Temes relacionats
+- [[Influència de l'herència]]
+- [[El sistema nerviós autònom]]
 - [[Enfocament empíric incipient]]
